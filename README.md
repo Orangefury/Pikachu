@@ -1,5 +1,5 @@
 # Pikachu
-A multipurpose bot Which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
+A multipurpose bot which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
 
 **For welcome and goodbye messages create a channel with some words like "welcome", "greet", "leave" etc.
 and make a channel with name ``log`` to log about all  updates about your server.
@@ -18,7 +18,7 @@ For detailed informatin about the bot, you can join this server.
 
 | Command name | Description |
 | ------------ | ----------- |
-| !adcheck        :|: Shows a list of users with invite links in game.|
+|!adcheck        :|: Shows a list of users with invite links in game.|
 |!clear          :|: Clears X number of messages.|
 |!kick           :|: Kicks a mentioned user.|
 |!mute           :|: Mutes a mentioned user.|
@@ -61,7 +61,7 @@ For detailed informatin about the bot, you can join this server.
 **Gambling**
 
 
-not completed yet ,due to database bugs
+Not completed yet, due to database bugs, will soon be completed.
 
 
 
@@ -173,7 +173,7 @@ These commands aren't completed yet due to database bugs.
   
 # Extra Information
 This repository is just a placeholder repository about the bot. 
-If you happen to have any issues regardint the bot then you can repot an issue here or in the official discord server of the bot.
+If you happen to have any issues regarding the bot then you can report an issue here or in the official discord server of the bot.
 
 
 [<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png">](https://discord.gg/rSsBhn5)
@@ -181,6 +181,6 @@ If you happen to have any issues regardint the bot then you can repot an issue h
 To add this bot to your server use this link
 [click here]( https://discordapp.com/oauth2/authorize?client_id=358785023286968323&scope=bot&permissions=214695859)
 
-# Upvote the bot here
+### Upvote The Bot Here
 
 [![Discord Bots](https://discordbots.org/api/widget/358785023286968323.png)](https://discordbots.org/bot/358785023286968323)
