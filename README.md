@@ -158,6 +158,8 @@ These commands aren't completed yet due to database bugs.
 | ------------ | ----------- |
 |!profile        :|: Shows your or someone full profile|
 |!rank           :|: Shows your or someone's global XP and Level.|
+
+
 **HELP**
 
 | Command name | Description |
@@ -165,6 +167,8 @@ These commands aren't completed yet due to database bugs.
 |!commands       :|: Lists all the bot commands from a certain module.|
 |!help           :|: Displays all the available commands or info on a certain command.|
 |!modules        :|: List all bot modules.|
+
+
 **WAIFU**
 
 | Command name | Description |
