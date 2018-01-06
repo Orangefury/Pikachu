@@ -166,7 +166,7 @@ These commands aren't completed yet due to database bugs.
 # Extra Information
 This repository is just a placeholder repository about the bot. 
 If you happen to have any issues regardint the bot then you can repot an issue here or in the official discord server of the bot.
-(https://discordapp.com/api/guilds/278135637293531136.png)
+[<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=banner1">](https://discord.gg/rSsBhn5)
 
 To add this bot to your server use this link
 [click here]( https://discordapp.com/oauth2/authorize?client_id=358785023286968323&scope=bot&permissions=214695859)
