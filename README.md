@@ -176,4 +176,6 @@ If you happen to have any issues regardint the bot then you can repot an issue h
 To add this bot to your server use this link
 [click here]( https://discordapp.com/oauth2/authorize?client_id=358785023286968323&scope=bot&permissions=214695859)
 
+# Upvote the bot here
+
 [![Discord Bots](https://discordbots.org/api/widget/358785023286968323.png)](https://discordbots.org/bot/358785023286968323)
