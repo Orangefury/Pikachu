@@ -21,6 +21,8 @@ For detailed informatin about the bot, you can join this server. <>
 |!warn           :|: Warns a mentioned user.|
 
 **Fun**
+
+
 | Command name | Description |
 | ------------ | ----------- |
 |!8ball          :|: Ask 8ball a yes/no question.|
@@ -46,6 +48,7 @@ For detailed informatin about the bot, you can join this server. <>
 |!slap           :|: Slaps someone for fun.|
 |!virus          :|: Fake virus for funfor fun.|
 |!wb             :|: Says something in a webhook.|
+
 
 **Gambling**
 <not completed yet ,due to database bugs>
@@ -152,7 +155,7 @@ These commands aren't completed yet due to database bugs
 # Extra Information
 This repository is just a placeholder repository about the bot. 
 If you happen to have any issues regardint the bot then you can repot an issue here or in the official discord server of the bot.
-<iframe src="https://discordapp.com/widget?id=278135637293531136&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+(https://discordapp.com/api/guilds/278135637293531136/widget.json)
 
 To add this bot to your server use this link
 [click here]( https://discordapp.com/oauth2/authorize?client_id=358785023286968323&scope=bot&permissions=214695859)
