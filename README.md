@@ -51,7 +51,7 @@ For detailed informatin about the bot, you can join this server. <>
 
 
 **Gambling**
-<not completed yet ,due to database bugs>
+|not completed yet ,due to database bugs|
 | Command name | Description |
 | ------------ | ----------- |
 |!award          :|: Award someone money.|
@@ -116,7 +116,7 @@ For detailed informatin about the bot, you can join this server. <>
 |!trainer        :|: Shows a random or specific trainer sprite.|
 
 **Music**
-<Commands with a * require Admin perms. Use !musichelp command for help on usage.>
+|Commands with a * require Admin perms. Use !musichelp command for help on usage.|
 | Command name | Description |
 | ------------ | ----------- |
 |play     | Queue a song/playlist by search for a song.|
@@ -132,7 +132,7 @@ For detailed informatin about the bot, you can join this server. <>
 **XP**
 
 
-These commands aren't completed yet due to database bugs
+|These commands aren't completed yet due to database bugs|
 
 
 | Command name | Description |
