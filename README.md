@@ -2,7 +2,7 @@
 A multipurpose bot Which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
 For detailed informatin about the bot, you can join this server. 
 
-[<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=frame1">](https://discord.gg/rSsBhn5)
+[<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=?style=banner2">](https://discord.gg/rSsBhn5)
 
 # Commands
 
