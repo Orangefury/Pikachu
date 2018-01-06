@@ -19,9 +19,8 @@ For detailed informatin about the bot, you can join this server.
 | Command name | Description |
 | ------------ | ----------- |
 | !adcheck        :|: Shows a list of users with invite links in game.|
-|!clear          :||: Clears X number of messages.|
+|!clear          :|: Clears X number of messages.|
 |!kick           :|: Kicks a mentioned user.|
-||!leave          :|: Leaves a joined server.|
 |!mute           :|: Mutes a mentioned user.|
 |!prunereactions :|: Clears reactions from X number of messages|
 |!say            :|: Make bot say something.|
