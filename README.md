@@ -4,7 +4,7 @@ A multipurpose bot which can make your server preetier than ever and help you ma
 **For welcome and goodbye messages create a channel with some words like "welcome", "greet", "leave" etc.
 and make a channel with name ``log`` to log about all  updates about your server.
 ``This bot also send ban message to every user who is banned or unbanned`` by bot or by maually in your server** 
-
+``You can also chat with bot by mentioning it , then typing your text``
 For detailed informatin about the bot, you can join this server. 
 
 
@@ -108,7 +108,8 @@ Not completed yet, due to database bugs, will soon be completed.
 |!item           :|: Shows info on an item.|
 |!move           :|: Shows info on a move.|
 |!pokedex        :|: Shows info on a Pokemon.|
-|!type           :|: Shows info on a Pokemom type.|
+|!type           :|: Shows info on a Pokemom type.|
+|!weak.          :|: Get weakness of a Pokémon or it's mega form|
 **Pokemon**
 
 | Command name | Description |
@@ -126,7 +127,8 @@ Not completed yet, due to database bugs, will soon be completed.
 |!shuffle        :|: Sends a random Pokemon shuffle icon.|
 |!slowpoke       :|: Sends an image like a slowpoke.|
 |!sprite         :|: Sends the Pokemon's sprite from specified game code.|
-|!trainer        :|: Shows a random or specific trainer sprite.|
+|!trainer        :|: Shows a random or specific trainer sprite.|
+|!randomfusion.  :|: Get a random pokemon fusion |
 
 **Music**
 
