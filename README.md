@@ -6,13 +6,17 @@ and make a channel with name ``log`` to log about all  updates about your server
 ``This bot also send ban message to every user who is banned or unbanned`` by bot or by maually in your server** 
 ``You can also chat with bot by mentioning it , then typing your text``
 For detailed informatin about the bot, you can join this server. 
-
+[https://cdn.discordapp.com/attachments/358923378893258752/401263369279111169/TMPSNAPSHOT1515739023625.jpg](https://www.pateron.com/pikachubot)
 
 [<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=banner2">](https://discord.gg/rSsBhn5)
 
 
 # Commands
 
+**Support**
+| Command name | Description |
+| ------------ | ----------- |
+|!pateron      | sends the info about Pikachu bot pateron|
 
 **Admin**
 
@@ -23,7 +27,7 @@ For detailed informatin about the bot, you can join this server.
 |!kick           :|: Kicks a mentioned user.|
 |!mute           :|: Mutes a mentioned user.|
 |!prunereactions :|: Clears reactions from X number of messages|
-|!say            :|: Make bot say something.|
+|!ban            :|: Bans a mentioned user.|
 |!serverinvite   :|: Sends the current server's invite url|.
 |!softban        :|: Soft Bans a mentioned user.|
 |!warn           :|: Warns a mentioned user.|
