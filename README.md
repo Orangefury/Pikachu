@@ -6,7 +6,7 @@ and make a channel with name ``log`` to log about all  updates about your server
 ``This bot also send ban message to every user who is banned or unbanned`` by bot or by maually in your server** 
 ``You can also chat with bot by mentioning it , then typing your text``
 For detailed informatin about the bot, you can join this server. 
-[[!Pikachu](https://cdn.discordapp.com/attachments/358923378893258752/401263369279111169/TMPSNAPSHOT1515739023625.jpg)](https://www.pateron.com/pikachubot)
+[![Pikachu](https://cdn.discordapp.com/attachments/358923378893258752/401263369279111169/TMPSNAPSHOT1515739023625.jpg)](https://www.pateron.com/pikachubot)
 
 [<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=banner2">](https://discord.gg/rSsBhn5)
 
