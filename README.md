@@ -135,6 +135,7 @@ Not completed yet, due to database bugs, will soon be completed.
 |!sprite         :|: Sends the Pokemon's sprite from specified game code.|
 |!trainer        :|: Shows a random or specific trainer sprite.|
 |!randomfusion.  :|: Get a random pokemon fusion |
+|!pokefuse.      :|: Get Pokémon fusion by two Pokémon name|
 
 **Music**
 
