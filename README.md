@@ -42,7 +42,7 @@ For detailed informatin about the bot, you can join this server.
 |!8ball          :|: Ask 8ball a yes/no question.|
 |!achievement    :|: Get an achievement of something.|
 |!avatar         :|: Shows your someone' avatar url.|
-
+|!Facts          :|: Sends random wiki facts|
 |!clapify         :|: Clapifies some text.|
 |!dab            :|: Get a random dab.|
 |!dice           :|: Rolls a dice.|
@@ -104,7 +104,8 @@ Not completed yet, due to database bugs, will soon be completed.
 |!stats          :|: Shows info on bot.|
 |!suggest        :|: suggests something to the bot owner.|
 |!userid         :|: Shows user id of someone.|
-|!userinfo       :|: Shows info on a user.|
+|!userinfo       :|: Shows info on a user.|
+|!ud             :|: get meaning of any word on urban dictionary|
 
 **Pokedex**
 
