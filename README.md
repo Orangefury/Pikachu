@@ -41,9 +41,9 @@ For detailed informatin about the bot, you can join this server.
 | ------------ | ----------- |
 |!8ball          :|: Ask 8ball a yes/no question.|
 |!achievement    :|: Get an achievement of something.|
-|!avatar         :|: Shows your someone' avatar url.|
-|!cat            :|: Sends a random cat image.|
-|!clapify        :|: Clapifies some text.|
+|!avatar         :|: Shows your someone' avatar url.|
+
+|!clapify         :|: Clapifies some text.|
 |!dab            :|: Get a random dab.|
 |!dice           :|: Rolls a dice.|
 |!eat            :|: Eats someone or something for fun.|
@@ -121,13 +121,14 @@ Not completed yet, due to database bugs, will soon be completed.
 | Command name | Description |
 | ------------ | ----------- |
 |!coinflip       :|: Flips a Pokémon coin.|
-|!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
-|!gif            :|: Sends the Pokemon and mega gifs.|
+|!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
+|!bwgif          :|: Sends pokemon sprites from bw2|
+|!gif            :|: Sends the Pokemon front , back and mega gifs.|
 |!img            :|: Sends the Pokemon shiny and mega image.|
 |!pmd            :|: Sends the Pokemon's icon from Pokemon Mystery Dungeon: Explorers Of Sky.|
 |!pokemon        :|: Sends the Pokemon's gif from Gen6.|
 |!shinyhuntr     :|: Shiny hunting.||
-|!shinygif       :|: Sends the Pokemon shiny and mega gifs.|
+|!shinygif       :|: Sends the Pokemon front, back shiny and mega gifs.|
 |!shinyimg       :|: Sends the Pokemon shiny and mega image.|
 |!showdown       :|: get all info of showdown|
 |!shuffle        :|: Sends a random Pokemon shuffle icon.|
