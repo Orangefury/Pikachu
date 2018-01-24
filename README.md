@@ -18,7 +18,7 @@ For detailed informatin about the bot, you can join this server.
 
 | Command name | Description |
 | ------------ | ----------- |
-|!pateron      | sends the info about Pikachu bot pateron|
+|!patreon      | sends the info about Pikachu bot patreon|
 
 **Admin**
 
