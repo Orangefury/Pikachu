@@ -43,6 +43,8 @@ For detailed informatin about the bot, you can join this server.
 |!achievement    :|: Get an achievement of something.|
 |!avatar         :|: Shows your someone' avatar url.|
 |!Facts          :|: Sends random wiki facts|
+|!cat            :|: Sends random cat pics|
+|!joke           :|: Sends random jokes|
 |!clapify         :|: Clapifies some text.|
 |!dab            :|: Get a random dab.|
 |!dice           :|: Rolls a dice.|
