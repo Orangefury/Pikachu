@@ -127,10 +127,13 @@ Not completed yet, due to database bugs, will soon be completed.
 |!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
 |!bwgif          :|: Sends pokemon sprites from bw2|
 |!gif            :|: Sends the Pokemon front , back and mega gifs.|
+!set            :|: Get a moveset of a Pokemon.|
 |!img            :|: Sends the Pokemon shiny and mega image.|
 |!pmd            :|: Sends the Pokemon's icon from Pokemon Mystery Dungeon: Explorers Of Sky.|
 |!pokemon        :|: Sends the Pokemon's gif from Gen6.|
-|!shinyhuntr     :|: Shiny hunting.||
+|!server          :|: Get status of a PRO server.|
+|!set             :|: Get a moveset of a Pokemon.|
+|!shinyhuntr     :|: Shiny hunting.|
 |!shinygif       :|: Sends the Pokemon front, back shiny and mega gifs.|
 |!shinyimg       :|: Sends the Pokemon shiny and mega image.|
 |!showdown       :|: get all info of showdown|
