@@ -143,6 +143,7 @@ Not completed yet, due to database bugs, will soon be completed.
 |!trainer        :|: Shows a random or specific trainer sprite.|
 |!randomfusion.  :|: Get a random pokemon fusion |
 |!pokefuse.      :|: Get Pokémon fusion by two Pokémon name|
+|!userladder.    :|: Get PRO user leaderboard|
 
 **Music**
 
