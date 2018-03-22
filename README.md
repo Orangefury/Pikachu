@@ -1,4 +1,4 @@
-# Community
+# Pikachu
 A multipurpose bot which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
 
 **For welcome and goodbye messages create a channel with some words like "welcome", "greet", "leave" etc.
@@ -6,7 +6,7 @@ and make a channel with name ``log`` to log about all  updates about your server
 ``This bot also send ban message to every user who is banned or unbanned`` by bot or by maually in your server** 
 ``You can also chat with bot by mentioning it , then typing your text``
 For detailed informatin about the bot, you can join this server. 
-[![Community](https://cdn.discordapp.com/attachments/358923378893258752/401263369279111169/TMPSNAPSHOT1515739023625.jpg)](https://www.patreon.com/CommunityBot)
+[![Pikachu](https://cdn.discordapp.com/attachments/358923378893258752/401263369279111169/TMPSNAPSHOT1515739023625.jpg)](https://www.patreon.com/CommunityBot)
 
 [<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=banner2">](https://discord.gg/rSsBhn5)
 
