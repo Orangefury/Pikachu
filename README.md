@@ -96,7 +96,6 @@ Not completed yet, due to database bugs, will soon be completed.
  |porngif| sexy gif|
 | hentai | anime hentai |
 | fuck | fuck |
-| pornhub | pornhub |
 | pussy | random pyssy |
  | snapchat | Snapchat pics |
  |milf | sexy milf |
