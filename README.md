@@ -81,7 +81,32 @@ Not completed yet, due to database bugs, will soon be completed.
 |!cash           :|: Check how much cash a person have.|
 |!give           :|: Transfer someone your money.|
 |!shinymoney     :|: get your  shinymoney|
-|!take           :|: Take money from someone.|
+|!take           :|: Take money from someone.|
+
+**NSFW**
+
+|NSFW Commands:|
+ |4k | 4k fun|
+| amateur| amateur pics|
+ |asian | Asian pics|
+ |ass | get some big booty pics|
+ |boobs| get some big boobs pics |
+| cosplay| cosplay|
+ |gif| sexy gif|
+| hentai | anime hentai |
+| fuck | fuck |
+| pornhub | pornhub |
+| pussy | random pyssy |
+ | snapchat | Snapchat pics |
+ |milf | sexy milf |
+ | bbw | big big womans |
+ | dick | sends some dick pics |
+ | public | public nsfw |
+| uniform | uniform pics |
+
+
+
+
 
 **Utility**
 
