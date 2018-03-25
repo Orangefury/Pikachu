@@ -93,7 +93,7 @@ Not completed yet, due to database bugs, will soon be completed.
  |ass | get some big booty pics|
  |boobs| get some big boobs pics |
 | cosplay| cosplay|
- |gif| sexy gif|
+ |porngif| sexy gif|
 | hentai | anime hentai |
 | fuck | fuck |
 | pornhub | pornhub |
