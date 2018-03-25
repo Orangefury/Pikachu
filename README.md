@@ -85,7 +85,8 @@ Not completed yet, due to database bugs, will soon be completed.
 
 **NSFW**
 
-|NSFW Commands:|
+|NSFW Commands:| Description |
+|-------------- | -----------|
  |4k | 4k fun|
 | amateur| amateur pics|
  |asian | Asian pics|
