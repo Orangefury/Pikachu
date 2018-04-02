@@ -135,9 +135,9 @@ For detailed informatin about the bot, you can join this server.
 | ------------ | ----------- |
 |!ability        :|: Shows info on an ability.|
 |!rotomdex       :|: ROTOM dex from ultra sun moon|
-|!tcg            :|: look for a Pokémon TCG card and display it.
-The `find` subcommand searches for a card by name (eg. Decidueye), followed by an optional set id (eg. sm1).
-The `list` subcommand displays a list of sets (by ID) in which a given card is present.
+|!tcg            :|: look for a Pokémon TCG card and display it.|
+|The `find` subcommand searches for a card by name (eg. Decidueye), followed by an optional set id (eg. sm1).|
+|The `list` subcommand displays a list of sets (by ID) in which a given card is present.|
 |!item          :|: Shows info on an item.|
 |!move           :|: Shows info on a move.|
 |!pokedex        :|: Shows info on a Pokemon.|
