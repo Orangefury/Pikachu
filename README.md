@@ -69,19 +69,14 @@ For detailed informatin about the bot, you can join this server.
 **Gambling**
 
 
-Not completed yet, due to database bugs, will soon be completed.
-
-
 
 | Command name | Description |
 | ------------ | ----------- |
-|!award          :|: Award someone money.|
-|!betflip        :|: Bet money on coin flip.|
+|!betflip        :|: Bet money on coin flip.|
 |!betroll        :|: Bet money on roll.|
 |!cash           :|: Check how much cash a person have.|
-|!give           :|: Transfer someone your money.|
-|!shinymoney     :|: get your  shinymoney|
-|!take           :|: Take money from someone.|
+|!leaderboard.   :|: Show Top 10 users with most pikacoin |
+
 
 **NSFW**
 
@@ -194,16 +189,6 @@ Commands with a * require Admin perms. Use !musichelp command for help on usage.
 |clearqueue| Clears the current queue.|
 |np        | Shows the currenlty playing song. |
 
-**XP**
-
-
-These commands aren't completed yet due to database bugs.
-
-
-| Command name | Description |
-| ------------ | ----------- |
-|!profile        :|: Shows your or someone full profile|
-|!rank           :|: Shows your or someone's global XP and Level.|
 
 
 **HELP**
