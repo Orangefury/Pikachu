@@ -143,6 +143,8 @@ For detailed informatin about the bot, you can join this server.
 |!pokedex        :|: Shows info on a Pokemon.|
 |!type           :|: Shows info on a Pokemom type.|
 |!weak.          :|: Get weakness of a Pokémon or it's mega form|
+
+
 **Pokemon**
 
 | Command name | Description |
@@ -168,6 +170,7 @@ For detailed informatin about the bot, you can join this server.
 |!randomfusion.  :|: Get a random pokemon fusion |
 |!pokefuse.      :|: Get Pokémon fusion by two Pokémon name|
 |!userladder.    :|: Get PRO user leaderboard|
+
 
 **Music**
 
