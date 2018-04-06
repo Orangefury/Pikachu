@@ -1,4 +1,7 @@
 # Pikachu
+
+[![Pikachu](https://cdn.discordapp.com/attachments/431347219673907202/431616156911140885/download.jpeg)]
+
 A multipurpose bot which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
 
 **For welcome and goodbye messages create a channel with some words like "welcome", "greet", "leave" etc.
