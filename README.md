@@ -55,8 +55,10 @@ For detailed informatin about the bot, you can join this server.
 |!emojify        :|: Emojifies some text.|
 |!hug            :|: Hug someone 💑|
 |!kiss           :|: Kiss someone 💑|
-|!laugh          :|: Laugh on someone.|
-|!notwork        :|: use it when any command not work.|
+|!laugh          :|: Laugh on someone.|
+|!memes.          :|: Get random Memes|
+|!pokememes.      :|: Random pokemon memes|
+|!notwork        :|: use it when any command not work.|
 |!pat            :|: Pat someone.|
 |!ping           :|: Ping Pong command.|
 |!punch          :|: Punches someone for fun.|
@@ -91,6 +93,8 @@ For detailed informatin about the bot, you can join this server.
  |ass | get some big booty pics|
  |boobs| get some big boobs pics |
 | cosplay| cosplay|
+|Pokeporn | pokemon hentai pics|
+|rule34 | some rules pics|
  |porngif| sexy gif|
 | hentai | anime hentai |
 | fuck | fuck |
