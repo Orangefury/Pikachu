@@ -10,7 +10,7 @@ and make a channel with name ``log`` to log about all  updates about your server
 ``You can also chat with bot by mentioning it , then typing your text``
 For detailed informatin about the bot, you can join this server. 
 [![Pikachu](https://cdn.discordapp.com/attachments/358923378893258752/401263369279111169/TMPSNAPSHOT1515739023625.jpg)](https://www.patreon.com/PikachuBot)
-
+The secret Phrase is : Pikachu Bot is best.
 [<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=banner2">](https://discord.gg/rSsBhn5)
 
 
