@@ -21,7 +21,7 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-||Pika!about          :|: All info about the BOT|
+||Pika!about         :|: All info about the BOT|
 |Pika!patreon        :|: Sends an patreon of bot.|
 |Pika!report         :|: Reports something to the bot owner.|
 |Pika!suggest        :|: suggests something to the bot owner.|
