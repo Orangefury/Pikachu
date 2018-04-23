@@ -1,6 +1,6 @@
 # Pikachu
 
-[![Pikachu](https://cdn.discordapp.com/attachments/431347219673907202/431616156911140885/download.jpeg)]
+![Pikachu](https://cdn.discordapp.com/attachments/431347219673907202/431616156911140885/download.jpeg)
 
 A multipurpose bot which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
 
@@ -21,7 +21,10 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|!patreon      | sends the info about Pikachu bot patreon|
+||!about          :|: All info about the BOT|
+|!patreon        :|: Sends an patreon of bot.|
+|!report         :|: Reports something to the bot owner.|
+|!suggest        :|: suggests something to the bot owner.|
 
 **Admin**
 
@@ -33,9 +36,13 @@ The secret Phrase is : Pikachu Bot is best.
 |!mute           :|: Mutes a mentioned user.|
 |!prunereactions :|: Clears reactions from X number of messages|
 |!ban            :|: Bans a mentioned user.|
-|!serverinvite   :|: Sends the current server's invite url|.
+|!serverinvite   :|: Sends the current server's invite url|
+|!setprefix      :|: Show or change custom prefix.|
 |!softban        :|: Soft Bans a mentioned user.|
 |!warn           :|: Warns a mentioned user.|
+
+
+
 
 **Fun**
 
@@ -44,23 +51,22 @@ The secret Phrase is : Pikachu Bot is best.
 | ------------ | ----------- |
 |!8ball          :|: Ask 8ball a yes/no question.|
 |!achievement    :|: Get an achievement of something.|
-|!avatar         :|: Shows your someone' avatar url.|
-|!Facts          :|: Sends random wiki facts|
-|!cat            :|: Sends random cat pics|
-|!joke           :|: Sends random jokes|
-|!clapify         :|: Clapifies some text.|
+|!avatar         :|: Shows your someone' avatar url.|
+|!cat            :|: Sends a random cat.|
+|!clapify        :|: Clapifies some text.|
 |!dab            :|: Get a random dab.|
 |!dice           :|: Rolls a dice.|
 |!eat            :|: Eats someone or something for fun.|
 |!emojify        :|: Emojifies some text.|
 |!hug            :|: Hug someone 💑|
+|!joke           :|: Sends a random joke.|
 |!kiss           :|: Kiss someone 💑|
-|!laugh          :|: Laugh on someone.|
-|!memes.          :|: Get random Memes|
-|!pokememes.      :|: Random pokemon memes|
-|!notwork        :|: use it when any command not work.|
+|!laugh          :|: Laugh on someone.|
+|!memes          :|: Sends Random memes and Dank memes|
+|!notwork        :|: Notwork|
 |!pat            :|: Pat someone.|
 |!ping           :|: Ping Pong command.|
+|!pokememes      :|: Sends Random Pokemonmemes|
 |!punch          :|: Punches someone for fun.|
 |!raffle         :|: Raffles an random user from the server.|
 |!roll           :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
@@ -77,34 +83,35 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|!betflip        :|: Bet money on coin flip.|
+|!betflip        :|: Bet money on coin flip.|
 |!betroll        :|: Bet money on roll.|
 |!cash           :|: Check how much cash a person have.|
-|!leaderboard.   :|: Show Top 10 users with most pikacoin |
-
+|!leaderboard    :|: see TOP 10 hall of fame of Pokecoins  .|
+|!pick           :|: pick.|
+|!register       :|: register|
 
 **NSFW**
 
 |NSFW Commands:| Description |
 |-------------- | -----------|
- |4k | 4k fun|
-| amateur| amateur pics|
- |asian | Asian pics|
- |ass | get some big booty pics|
- |boobs| get some big boobs pics |
-| cosplay| cosplay|
-|Pokeporn | pokemon hentai pics|
-|rule34 | some rules pics|
- |porngif| sexy gif|
-| hentai | anime hentai |
-| fuck | fuck |
-| pussy | random pyssy |
- | snapchat | Snapchat pics |
- |milf | sexy milf |
- | bbw | big big womans |
- | dick | sends some dick pics |
- | public | public nsfw |
-| uniform | uniform pics |
+|!4k             :|: Sends some high quality nsfw|
+|!amateur        :|: Random amateur teens pics|
+|!asian          :|: Random asian nude pics|
+|!ass            :|: Random ass nude pics|
+|!bbw            :|: Random bbw nsfw pics|
+|!boobs          :|: Random boobs nude pics|
+|!cosplay        :|: Random cosplay nude pics|
+|!dick           :|: Random dick nsfw pics|
+|!fuck           :|: Random fuck nsfw pics|
+|!hentai         :|: Random hentai pics|
+|!milf           :|: Random milf nsfw pics|
+|!pokeporn       :|: Sends some pokemon hentai images|
+|!porngif        :|: Random porngif nude pics|
+|!public         :|: Random public nsfw pics|
+|!pussy          :|: Random pussy nsfw pics|
+|!rule34         :|: Sends some random rule 34 images|
+|!snapchat       :|: Random snapchat nsfw pics|
+|!uniform        :|: Random uniform nsfw pics|
 
 
 
@@ -124,17 +131,13 @@ The secret Phrase is : Pikachu Bot is best.
 |!emoteinfo      :|: Shows a certain custom emoji's info.|
 |!motivate       :|: Sends a motivational message.|
 |!placeholder    :|: Sends a place holder image|
-|!report         :|: Reports something to the bot owner.|
 |!roleinfo       :|: Shows info on a specified role.|
 |!roles          :|: Gives a list of roles in that server.|
 |!serverid       :|: Shows the current server's id.|
 |!serverinfo     :|: Shows info on server.|
-|!servers        :|: Shows all the servers the bot is in|
 |!stats          :|: Shows info on bot.|
-|!suggest        :|: suggests something to the bot owner.|
 |!userid         :|: Shows user id of someone.|
-|!userinfo       :|: Shows info on a user.|
-|!ud             :|: get meaning of any word on urban dictionary|
+|!userinfo       :|: Shows info on a user.|
 
 **Pokedex**
 
@@ -143,6 +146,7 @@ The secret Phrase is : Pikachu Bot is best.
 |!ability        :|: Shows info on an ability.|
 |!rotomdex       :|: ROTOM dex from ultra sun moon|
 |!tcg            :|: look for a Pokémon TCG card and display it.|
+|!nature         :|: Get info on a nature.|
 |The `find` subcommand searches for a card by name (eg. Decidueye), followed by an optional set id (eg. sm1).|
 |The `list` subcommand displays a list of sets (by ID) in which a given card is present.|
 |!item          :|: Shows info on an item.|
@@ -156,36 +160,26 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
+|!bwgif          :|: Sends a Pokemon gif from BW2.|
 |!coinflip       :|: Flips a Pokémon coin.|
-|!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
-|!bwgif          :|: Sends pokemon sprites from bw2|
-|!gif            :|: Sends the Pokemon front , back and mega gifs.|
-!set            :|: Get a moveset of a Pokemon.|
-|!img            :|: Sends the Pokemon shiny and mega image.|
+|!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
+|!gif            :|: Sends a Pokemon animated sprite.|
+|!img            :|: Sends a Pokemon image.|
 |!pmd            :|: Sends the Pokemon's icon from Pokemon Mystery Dungeon: Explorers Of Sky.|
+|!pokefuse       :|: Get a Pokémon fusion.|
 |!pokemon        :|: Sends the Pokemon's gif from Gen6.|
-|!server          :|: Get status of a PRO server.|
-|!set             :|: Get a moveset of a Pokemon.|
 |!shinyhuntr     :|: Shiny hunting.|
-|!shinygif       :|: Sends the Pokemon front, back shiny and mega gifs.|
-|!shinyimg       :|: Sends the Pokemon shiny and mega image.|
+|!randomfusion   :|: Get a random Pokémon fusion.|
+|!shinygif       :|: Sends a Pokemon shiny animated sprite.|
+|!shinyimg       :|: Sends a Pokemon shiny image.|
 |!showdown       :|: get all info of showdown|
 |!shuffle        :|: Sends a random Pokemon shuffle icon.|
-|!slowpoke       :|: Sends an image like a slowpoke.|
 |!sprite         :|: Sends the Pokemon's sprite from specified game code.|
-|!trainer        :|: Shows a random or specific trainer sprite.|
-|!randomfusion.  :|: Get a random pokemon fusion |
-|!pokefuse.      :|: Get Pokémon fusion by two Pokémon name|
-|!userladder.    :|: Get PRO user leaderboard|
-
-
-**Music**
+|!trainer        :|: Shows a random or specific trainer sprite.|
 
 
 
-Commands with a * require Admin perms. Use !musichelp command for help on usage.
-
-
+#FIXING IT 
 
 | Command name | Description |
 | ------------ | ----------- |
