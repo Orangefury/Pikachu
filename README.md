@@ -191,7 +191,7 @@ The secret Phrase is : Pikachu Bot is best.
 |pika!queue          :|: Check the queue list.|
 |pika!resume         :|: Resumes the current song.|
 |pika!time           :|: Check how much time is left for the song to end.|
-|pika!volume         :|: Change volume.|
+
 
 
 **HELP**
