@@ -179,20 +179,19 @@ The secret Phrase is : Pikachu Bot is best.
 
 
 
-#FIXING IT 
+**MUSIC**
 
 | Command name | Description |
 | ------------ | ----------- |
-|play     | Queue a song/playlist by search for a song.|
-|skip      | Skip a song or multi songs.|
-|queue     | Shows the current queue|
-|pause*    | Pauses the queue.|
-|resume*   | Resume the queue.|
-|adjust*   | Adjusts the volume of the bot.|
-|leave     | Leave and clear the queue|
-|clearqueue| Clears the current queue.|
-|np        | Shows the currenlty playing song. |
-
+|pika!add            :|: search youtube for a song.|
+|pika!join           :|: Joins the message author's voice channel.|
+|pika!leave          :|: leave the voice channel|
+|pika!pause          :|: Pauses the current song.|
+|pika!play           :|: Let's start the queue!|
+|pika!queue          :|: Check the queue list.|
+|pika!resume         :|: Resumes the current song.|
+|pika!time           :|: Check how much time is left for the song to end.|
+|pika!volume         :|: Change volume.|
 
 
 **HELP**
