@@ -121,23 +121,24 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!googlesearch   :|: Search Google for something.|
-|Pika!botinvite      :|: Sends an invite of bot.|
-|Pika!channelid      :|: Shows the current channel' id.|
-|Pika!channelinfo    :|: Shows info on a channel.|
-|Pika!channels       :|: Gives a list of channels in that server.|
-|Pika!channeltopic   :|: Shows channel topic of current channel.|
-|Pika!emojis         :|: Shows all current server custom emojis.|
-|Pika!emoteinfo      :|: Shows a certain custom emoji's info.|
-|Pika!motivate       :|: Sends a motivational message.|
-|Pika!placeholder    :|: Sends a place holder image|
-|Pika!roleinfo       :|: Shows info on a specified role.|
-|Pika!roles          :|: Gives a list of roles in that server.|
-|Pika!serverid       :|: Shows the current server's id.|
-|Pika!serverinfo     :|: Shows info on server.|
-|Pika!stats          :|: Shows info on bot.|
-|Pika!userid         :|: Shows user id of someone.|
-|Pika!userinfo       :|: Shows info on a user.|
+|pika!googlesearch   :|: Search Google for something.|
+|pika!botinvite      :|: Sends an invite of bot.|
+|pika!bump           :|: Bump/PROMOTE your server!!|
+|pika!channelid      :|: Shows the current channel' id.|
+|pika!channelinfo    :|: Shows info on a channel.|
+|pika!channels       :|: Gives a list of channels in that server.|
+|pika!channeltopic   :|: Shows channel topic of current channel.|
+|pika!emojis         :|: Shows all current server custom emojis.|
+|pika!emoteinfo      :|: Shows a certain custom emoji's info.|
+|pika!motivate       :|: Sends a motivational message.|
+|pika!placeholder    :|: Sends a place holder image|
+|pika!roleinfo       :|: Shows info on a specified role.|
+|pika!roles          :|: Gives a list of roles in that server.|
+|pika!serverid       :|: Shows the current server's id.|
+|pika!serverinfo     :|: Shows info on server.|
+|pika!stats          :|: Shows info on bot.|
+|pika!userid         :|: Shows user id of someone.|
+|pika!userinfo       :|: Shows info on a user.|
 
 **Pokedex**
 
