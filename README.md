@@ -97,25 +97,25 @@ The secret Phrase is : Pikachu Bot is best.
 
 |NSFW Commands:| Description |
 |-------------- | -----------|
-|Pika!4k             :|: Sends some high quality nsfw|
-|Pika!amateur        :|: Random amateur teens pics|
-|Pika!asian          :|: Random asian nude pics|
-|Pika!ass            :|: Random ass nude pics|
-|Pika!bbw            :|: Random bbw nsfw pics|
-|Pika!boobs          :|: Random boobs nude pics|
-|Pika!cosplay        :|: Random cosplay nude pics|
-|Pika!dick           :|: Random dick nsfw pics|
-|Pika!fuck           :|: Random fuck nsfw pics|
-|Pika!hentai         :|: Random hentai pics|
-|Pika!milf           :|: Random milf nsfw pics|
-|Pika!pokeporn       :|: Sends some pokemon hentai images|
-|Pika!porngif        :|: Random porngif nude pics|
-|Pika!public         :|: Random public nsfw pics|
-|Pika!pussy          :|: Random pussy nsfw pics|
-|Pika!rule34         :|: Sends some random rule 34 images|
-|Pika!snapchat       :|: Random snapchat nsfw pics|
-|Pika!uniform        :|: Random uniform nsfw pics|
-
+|!4k             :|: Sends some high quality nsfw|
+|!amateur        :|: Random amateur teens pics|
+|!asian          :|: Random asian nude pics|
+|!ass            :|: Random ass nude pics|
+|!bakchodi       :|: RAndom bakchodi(indian memes)|
+|!bbw            :|: Random bbw nsfw pics|
+|!boobs          :|: Random boobs nude pics|
+|!cosplay        :|: Random cosplay nude pics|
+|!dick           :|: Random dick nsfw pics|
+|!fuck           :|: search for fuck|
+|!hentai         :|: Random hentai pics|
+|!milf           :|: Random milf nsfw pics|
+|!pokeporn       :|: Sends some pokemon hentai images|
+|!porngif        :|: Random porngif nude pics|
+|!public         :|: Random public nsfw pics|
+|!pussy          :|: Random pussy nsfw pics|
+|!rule34         :|: Sends some random rule 34 images|
+|!snapchat       :|: Random snapchat nsfw pics|
+|!uniform        :|: Random uniform nsfw pics|
 
 
 
