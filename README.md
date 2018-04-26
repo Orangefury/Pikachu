@@ -49,32 +49,35 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!8ball          :|: Ask 8ball a yes/no question.|
-|Pika!achievement    :|: Get an achievement of something.|
-|Pika!avatar         :|: Shows your someone' avatar url.|
-|Pika!cat            :|: Sends a random cat.|
-|Pika!clapify        :|: Clapifies some text.|
-|Pika!dab            :|: Get a random dab.|
-|Pika!dice           :|: Rolls a dice.|
-|Pika!eat            :|: Eats someone or something for fun.|
-|Pika!emojify        :|: Emojifies some text.|
-|Pika!hug            :|: Hug someone 💑|
-|Pika!joke           :|: Sends a random joke.|
-|Pika!kiss           :|: Kiss someone 💑|
-|Pika!laugh          :|: Laugh on someone.|
-|Pika!memes          :|: Sends Random memes and Dank memes|
-|Pika!notwork        :|: Notwork|
-|Pika!pat            :|: Pat someone.|
-|Pika!ping           :|: Ping Pong command.|
-|Pika!pokememes      :|: Sends Random Pokemonmemes|
-|Pika!punch          :|: Punches someone for fun.|
-|Pika!raffle         :|: Raffles an random user from the server.|
-|Pika!roll           :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
-|Pika!rps            :|: Play Rock/Paper/Scissor with bot.|
-|Pika!ship           :|: Ship two users.|
-|Pika!slap           :|: Slaps someone for fun.|
-|Pika!virus          :|: Fake virus for funfor fun.|
-|Pika!wb             :|: Says something in a webhook.|
+|pika!8ball          :|: Ask 8ball a yes/no question.|
+|pika!achievement    :|: Get an achievement of something.|
+|pika!anime          :|: Get anime info|
+|pika!avatar         :|: Shows your someone' avatar url.|
+|pika!cat            :|: Sends a random cat.|
+|pika!clapify        :|: Clapifies some text.|
+|pika!comic          :|: Random comics|
+|pika!dab            :|: Get a random dab.|
+|pika!dice           :|: Rolls a dice.|
+|pika!eat            :|: Eats someone or something for fun.|
+|pika!emojify        :|: Emojifies some text.|
+|pika!hug            :|: Hug someone 💑|
+|pika!joke           :|: Sends a random joke.|
+|pika!kiss           :|: Kiss someone 💑|
+|pika!laugh          :|: Laugh on someone.|
+|pika!manga          :|: Get manga info|
+|pika!memes          :|: Sends Random memes and Dank memes|
+|pika!notwork        :|: Notwork|
+|pika!pat            :|: Pat someone.|
+|pika!ping           :|: Ping Pong command.|
+|pika!pokememes      :|: Sends Random Pokemonmemes|
+|pika!punch          :|: Punches someone for fun.|
+|pika!raffle         :|: Raffles an random user from the server.|
+|pika!roll           :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
+|pika!rps            :|: Play Rock/Paper/Scissor with bot.|
+|pika!ship           :|: Ship two users.|
+|pika!slap           :|: Slaps someone for fun.|
+|pika!virus          :|: Fake virus for funfor fun.|
+|pika!wb             :|: Says something in a webhook.|
 
 
 **Gambling**
