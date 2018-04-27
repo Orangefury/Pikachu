@@ -21,25 +21,25 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-||Pika!about         :|: All info about the BOT|
-|Pika!patreon        :|: Sends an patreon of bot.|
-|Pika!report         :|: Reports something to the bot owner.|
-|Pika!suggest        :|: suggests something to the bot owner.|
+||!about         :|: All info about the BOT|
+|!patreon        :|: Sends an patreon of bot.|
+|!report         :|: Reports something to the bot owner.|
+|!suggest        :|: suggests something to the bot owner.|
 
 **Admin**
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!adcheck        :|: Shows a list of users with invite links in game.|
-|Pika!clear          :|: Clears X number of messages.|
-|Pika!kick           :|: Kicks a mentioned user.|
-|Pika!mute           :|: Mutes a mentioned user.|
-|Pika!prunereactions :|: Clears reactions from X number of messages|
-|Pika!ban            :|: Bans a mentioned user.|
-|Pika!serverinvite   :|: Sends the current server's invite url|
-|Pika!setprefix      :|: Show or change custom prefix.|
-|Pika!softban        :|: Soft Bans a mentioned user.|
-|Pika!warn           :|: Warns a mentioned user.|
+|!adcheck        :|: Shows a list of users with invite links in game.|
+|!clear          :|: Clears X number of messages.|
+|!kick           :|: Kicks a mentioned user.|
+|!mute           :|: Mutes a mentioned user.|
+|!prunereactions :|: Clears reactions from X number of messages|
+|!ban            :|: Bans a mentioned user.|
+|!serverinvite   :|: Sends the current server's invite url|
+|!setprefix      :|: Show or change custom prefix.|
+|!softban        :|: Soft Bans a mentioned user.|
+|!warn           :|: Warns a mentioned user.|
 
 
 
@@ -49,35 +49,35 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|pika!8ball          :|: Ask 8ball a yes/no question.|
-|pika!achievement    :|: Get an achievement of something.|
-|pika!anime          :|: Get anime info|
-|pika!avatar         :|: Shows your someone' avatar url.|
-|pika!cat            :|: Sends a random cat.|
-|pika!clapify        :|: Clapifies some text.|
-|pika!comic          :|: Random comics|
-|pika!dab            :|: Get a random dab.|
-|pika!dice           :|: Rolls a dice.|
-|pika!eat            :|: Eats someone or something for fun.|
-|pika!emojify        :|: Emojifies some text.|
-|pika!hug            :|: Hug someone 💑|
-|pika!joke           :|: Sends a random joke.|
-|pika!kiss           :|: Kiss someone 💑|
-|pika!laugh          :|: Laugh on someone.|
-|pika!manga          :|: Get manga info|
-|pika!memes          :|: Sends Random memes and Dank memes|
-|pika!notwork        :|: Notwork|
-|pika!pat            :|: Pat someone.|
-|pika!ping           :|: Ping Pong command.|
-|pika!pokememes      :|: Sends Random Pokemonmemes|
-|pika!punch          :|: Punches someone for fun.|
-|pika!raffle         :|: Raffles an random user from the server.|
-|pika!roll           :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
-|pika!rps            :|: Play Rock/Paper/Scissor with bot.|
-|pika!ship           :|: Ship two users.|
-|pika!slap           :|: Slaps someone for fun.|
-|pika!virus          :|: Fake virus for funfor fun.|
-|pika!wb             :|: Says something in a webhook.|
+|!8ball          :|: Ask 8ball a yes/no question.|
+|!achievement    :|: Get an achievement of something.|
+|!anime          :|: Get anime info|
+|!avatar         :|: Shows your someone' avatar url.|
+|!cat            :|: Sends a random cat.|
+|!clapify        :|: Clapifies some text.|
+|!comic          :|: Random comics|
+|!dab            :|: Get a random dab.|
+|!dice           :|: Rolls a dice.|
+|!eat            :|: Eats someone or something for fun.|
+|!emojify        :|: Emojifies some text.|
+|!hug            :|: Hug someone 💑|
+|!joke           :|: Sends a random joke.|
+|!kiss           :|: Kiss someone 💑|
+|!laugh          :|: Laugh on someone.|
+|!manga          :|: Get manga info|
+|!memes          :|: Sends Random memes and Dank memes|
+|!notwork        :|: Notwork|
+|!pat            :|: Pat someone.|
+|!ping           :|: Ping Pong command.|
+|!pokememes      :|: Sends Random Pokemonmemes|
+|!punch          :|: Punches someone for fun.|
+|!raffle         :|: Raffles an random user from the server.|
+|!roll           :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
+|!rps            :|: Play Rock/Paper/Scissor with bot.|
+|!ship           :|: Ship two users.|
+|!slap           :|: Slaps someone for fun.|
+|!virus          :|: Fake virus for funfor fun.|
+|!wb             :|: Says something in a webhook.|
 
 
 **Gambling**
@@ -86,36 +86,36 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!betflip        :|: Bet money on coin flip.|
-|Pika!betroll        :|: Bet money on roll.|
-|Pika!cash           :|: Check how much cash a person have.|
-|Pika!leaderboard    :|: see TOP 10 hall of fame of Pokecoins  .|
-|Pika!pick           :|: pick.|
-|Pika!register       :|: register|
+|!betflip        :|: Bet money on coin flip.|
+|!betroll        :|: Bet money on roll.|
+|!cash           :|: Check how much cash a person have.|
+|!leaderboard    :|: see TOP 10 hall of fame of Pokecoins  .|
+|!pick           :|: pick.|
+|!register       :|: register|
 
 **NSFW**
 
 |NSFW Commands:| Description |
 |-------------- | -----------|
-|pika!4k             :|: Sends some high quality nsfw|
-|pika!amateur        :|: Random amateur teens pics|
-|pika!asian          :|: Random asian nude pics|
-|pika!ass            :|: Random ass nude pics|
-|pika!bakchodi       :|: RAndom bakchodi|
-|pika!bbw            :|: Random bbw nsfw pics|
-|pika!boobs          :|: Random boobs nude pics|
-|pika!cosplay        :|: Random cosplay nude pics|
-|pika!dick           :|: Random dick nsfw pics|
-|pika!fuck           :|: search for fuck|
-|pika!hentai         :|: Random hentai pics|
-|pika!milf           :|: Random milf nsfw pics|
-|pika!pokeporn       :|: Sends some pokemon hentai images|
-|pika!porngif        :|: Random porngif nude pics|
-|pika!public         :|: Random public nsfw pics|
-|pika!pussy          :|: Random pussy nsfw pics|
-|pika!rule34         :|: Sends some random rule 34 images|
-|pika!snapchat       :|: Random snapchat nsfw pics|
-|pika!uniform        :|: Random uniform nsfw pics|
+|!4k             :|: Sends some high quality nsfw|
+|!amateur        :|: Random amateur teens pics|
+|!asian          :|: Random asian nude pics|
+|!ass            :|: Random ass nude pics|
+|!bakchodi       :|: RAndom bakchodi|
+|!bbw            :|: Random bbw nsfw pics|
+|!boobs          :|: Random boobs nude pics|
+|!cosplay        :|: Random cosplay nude pics|
+|!dick           :|: Random dick nsfw pics|
+|!fuck           :|: search for fuck|
+|!hentai         :|: Random hentai pics|
+|!milf           :|: Random milf nsfw pics|
+|!pokeporn       :|: Sends some pokemon hentai images|
+|!porngif        :|: Random porngif nude pics|
+|!public         :|: Random public nsfw pics|
+|!pussy          :|: Random pussy nsfw pics|
+|!rule34         :|: Sends some random rule 34 images|
+|!snapchat       :|: Random snapchat nsfw pics|
+|!uniform        :|: Random uniform nsfw pics|
 
 
 
@@ -123,62 +123,62 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|pika!googlesearch   :|: Search Google for something.|
-|pika!botinvite      :|: Sends an invite of bot.|
-|pika!bump           :|: Bump/PROMOTE your server!!|
-|pika!channelid      :|: Shows the current channel' id.|
-|pika!channelinfo    :|: Shows info on a channel.|
-|pika!channels       :|: Gives a list of channels in that server.|
-|pika!channeltopic   :|: Shows channel topic of current channel.|
-|pika!emojis         :|: Shows all current server custom emojis.|
-|pika!emoteinfo      :|: Shows a certain custom emoji's info.|
-|pika!motivate       :|: Sends a motivational message.|
-|pika!placeholder    :|: Sends a place holder image|
-|pika!roleinfo       :|: Shows info on a specified role.|
-|pika!roles          :|: Gives a list of roles in that server.|
-|pika!serverid       :|: Shows the current server's id.|
-|pika!serverinfo     :|: Shows info on server.|
-|pika!stats          :|: Shows info on bot.|
-|pika!userid         :|: Shows user id of someone.|
-|pika!userinfo       :|: Shows info on a user.|
+|!googlesearch   :|: Search Google for something.|
+|!botinvite      :|: Sends an invite of bot.|
+|!bump           :|: Bump/PROMOTE your server!!|
+|!channelid      :|: Shows the current channel' id.|
+|!channelinfo    :|: Shows info on a channel.|
+|!channels       :|: Gives a list of channels in that server.|
+|!channeltopic   :|: Shows channel topic of current channel.|
+|!emojis         :|: Shows all current server custom emojis.|
+|!emoteinfo      :|: Shows a certain custom emoji's info.|
+|!motivate       :|: Sends a motivational message.|
+|!placeholder    :|: Sends a place holder image|
+|!roleinfo       :|: Shows info on a specified role.|
+|!roles          :|: Gives a list of roles in that server.|
+|!serverid       :|: Shows the current server's id.|
+|!serverinfo     :|: Shows info on server.|
+|!stats          :|: Shows info on bot.|
+|!userid         :|: Shows user id of someone.|
+|!userinfo       :|: Shows info on a user.|
 
 **Pokedex**
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!ability        :|: Shows info on an ability.|
-|Pika!rotomdex       :|: ROTOM dex from ultra sun moon|
-|Pika!tcg            :|: look for a Pokémon TCG card and display it.|
-|Pika!nature         :|: Get info on a nature.|
+|!ability        :|: Shows info on an ability.|
+|!rotomdex       :|: ROTOM dex from ultra sun moon|
+|!tcg            :|: look for a Pokémon TCG card and display it.|
+|!nature         :|: Get info on a nature.|
 |The `find` subcommand searches for a card by name (eg. Decidueye), followed by an optional set id (eg. sm1).|
 |The `list` subcommand displays a list of sets (by ID) in which a given card is present.|
-|Pika!item          :|: Shows info on an item.|
-|Pika!move           :|: Shows info on a move.|
-|Pika!pokedex        :|: Shows info on a Pokemon.|
-|Pika!type           :|: Shows info on a Pokemom type.|
-|Pika!weak.          :|: Get weakness of a Pokémon or it's mega form|
+|!item          :|: Shows info on an item.|
+|!move           :|: Shows info on a move.|
+|!pokedex        :|: Shows info on a Pokemon.|
+|!type           :|: Shows info on a Pokemom type.|
+|!weak.          :|: Get weakness of a Pokémon or it's mega form|
 
 
 **Pokemon**
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!bwgif          :|: Sends a Pokemon gif from BW2.|
-|Pika!coinflip       :|: Flips a Pokémon coin.|
-|Pika!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
-|Pika!gif            :|: Sends a Pokemon animated sprite.|
-|Pika!img            :|: Sends a Pokemon image.|
-|Pika!pmd            :|: Sends the Pokemon's icon from Pokemon Mystery Dungeon: Explorers Of Sky.|
-|Pika!pokefuse       :|: Get a Pokémon fusion.|
-|Pika!pokemon        :|: Sends the Pokemon's gif from Gen6.|
-|Pika!shinyhuntr     :|: Shiny hunting.|
-|Pika!randomfusion   :|: Get a random Pokémon fusion.|
-|Pika!shinygif       :|: Sends a Pokemon shiny animated sprite.|
-|Pika!shinyimg       :|: Sends a Pokemon shiny image.|
-|Pika!showdown       :|: get all info of showdown|
-|Pika!shuffle        :|: Sends a random Pokemon shuffle icon.|
-|Pika!sprite         :|: Sends the Pokemon's sprite from specified game code.|
-|Pika!trainer        :|: Shows a random or specific trainer sprite.|
+|!bwgif          :|: Sends a Pokemon gif from BW2.|
+|!coinflip       :|: Flips a Pokémon coin.|
+|!gba            :|: Sends a GBA styled sprite of the specified pokemon.|
+|!gif            :|: Sends a Pokemon animated sprite.|
+|!img            :|: Sends a Pokemon image.|
+|!pmd            :|: Sends the Pokemon's icon from Pokemon Mystery Dungeon: Explorers Of Sky.|
+|!pokefuse       :|: Get a Pokémon fusion.|
+|!pokemon        :|: Sends the Pokemon's gif from Gen6.|
+|!shinyhuntr     :|: Shiny hunting.|
+|!randomfusion   :|: Get a random Pokémon fusion.|
+|!shinygif       :|: Sends a Pokemon shiny animated sprite.|
+|!shinyimg       :|: Sends a Pokemon shiny image.|
+|!showdown       :|: get all info of showdown|
+|!shuffle        :|: Sends a random Pokemon shuffle icon.|
+|!sprite         :|: Sends the Pokemon's sprite from specified game code.|
+|!trainer        :|: Shows a random or specific trainer sprite.|
 
 
 
@@ -186,14 +186,14 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|pika!add            :|: search youtube for a song.|
-|pika!join           :|: Joins the message author's voice channel.|
-|pika!leave          :|: leave the voice channel|
-|pika!pause          :|: Pauses the current song.|
-|pika!play           :|: Let's start the queue!|
-|pika!queue          :|: Check the queue list.|
-|pika!resume         :|: Resumes the current song.|
-|pika!time           :|: Check how much time is left for the song to end.|
+|!add            :|: search youtube for a song.|
+|!join           :|: Joins the message author's voice channel.|
+|!leave          :|: leave the voice channel|
+|!pause          :|: Pauses the current song.|
+|!play           :|: Let's start the queue!|
+|!queue          :|: Check the queue list.|
+|!resume         :|: Resumes the current song.|
+|!time           :|: Check how much time is left for the song to end.|
 
 
 
@@ -201,16 +201,16 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!commands       :|: Lists all the bot commands from a certain module.|
-|Pika!help           :|: Displays all the available commands or info on a certain command.|
-|Pika!modules        :|: List all bot modules.|
+|!commands       :|: Lists all the bot commands from a certain module.|
+|!help           :|: Displays all the available commands or info on a certain command.|
+|!modules        :|: List all bot modules.|
 
 
 **WAIFU**
 
 | Command name | Description |
 | ------------ | ----------- |
-|Pika!rate           :|: Rate a waifu.|
+|!rate           :|: Rate a waifu.|
   
 # Extra Information
 This repository is just a placeholder repository about the bot. 
