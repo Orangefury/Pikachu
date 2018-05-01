@@ -47,9 +47,9 @@ The secret Phrase is : Pikachu Bot is best.
 **Fun**
 
 
-| Command name | Description |
-| ------------ | ----------- |
 
+| Command Name | Description|
+|--------------|----------------|
 |!8ball       :|: Ask 8ball a yes/no question.|
 |!achievement  :|: Get an achievement of something.|
 |!anime        :|: Get anime info|
