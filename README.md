@@ -49,36 +49,44 @@ The secret Phrase is : Pikachu Bot is best.
 
 | Command name | Description |
 | ------------ | ----------- |
-|!8ball          :|: Ask 8ball a yes/no question.|
-|!achievement    :|: Get an achievement of something.|
-|!anime          :|: Get anime info|
-|!avatar         :|: Shows your someone' avatar url.|
-|!cat            :|: Sends a random cat.|
-|!clapify        :|: Clapifies some text.|
-|!comic          :|: Random comics|
-|!dab            :|: Get a random dab.|
-|!dice           :|: Rolls a dice.|
-|!eat            :|: Eats someone or something for fun.|
-|!emojify        :|: Emojifies some text.|
-|!hug            :|: Hug someone 💑|
-|!joke           :|: Sends a random joke.|
-|!kiss           :|: Kiss someone 💑|
-|!laugh          :|: Laugh on someone.|
-|!manga          :|: Get manga info|
-|!memes          :|: Sends Random memes and Dank memes|
-|!notwork        :|: Notwork|
-|!pat            :|: Pat someone.|
-|!ping           :|: Ping Pong command.|
-|!pokememes      :|: Sends Random Pokemonmemes|
-|!punch          :|: Punches someone for fun.|
-|!raffle         :|: Raffles an random user from the server.|
-|!roll           :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
-|!rps            :|: Play Rock/Paper/Scissor with bot.|
-|!ship           :|: Ship two users.|
-|!slap           :|: Slaps someone for fun.|
-|!virus          :|: Fake virus for funfor fun.|
-|!wb             :|: Says something in a webhook.|
 
+|!8ball       :|: Ask 8ball a yes/no question.|
+|!achievement  :|: Get an achievement of something.|
+|!anime        :|: Get anime info|
+|!avatar       :|: Shows your someone' avatar url.|
+|!beautiful    :|: beautiful|
+|!cat          :|: Sends a random cat.|
+|!challenger   :|: challenger|
+|!clapify      :|: Clapifies some text.|
+|!comic        :|: Random comics|
+|!dab          :|: Get a random dab.|
+|!dice         :|: Rolls a dice.|
+|!eat          :|: Eats someone or something for fun.|
+|!emojify      :|: Emojifies some text.|
+|!hug          :|: Hug someone 💑|
+|!joke         :|: Sends a random joke.|
+|!kiss         :|: Kiss someone 💑|
+|!laugh        :|: Laugh on someone.|
+|!manga        :|: Get manga info|
+|!memes        :|: Sends Random memes and Dank memes|
+|!missing      :|: missing|
+|!notwork      :|: Notwork|
+|!owo          :|: OwO|
+|!panda        :|: Sends a random panda.|
+|!pat          :|: Pat someone.|
+|!penguin      :|: Sends a random penguin.|
+|!ping         :|: Ping Pong command.|
+|!pokememes    :|: Sends Random Pokemonmemes|
+|!punch        :|: Punches someone for fun.|
+|!raffle       :|: Raffles an random user from the server.|
+|!respect      :|: respect|
+|!roll         :|: Rolls a random number from specified numbers. Rolls from 1 to 100 if no number specified.|
+|!rps          :|: Play Rock/Paper/Scissor with bot.|
+|!ship         :|: Ship two users.|
+|!slap         :|: Slaps someone for fun.|
+|!triggerd     :|: Triggered|
+|!virus        :|: Fake virus for fun.|
+|!wanted       :|: wanted|
 
 **Gambling**
 
@@ -171,8 +179,9 @@ The secret Phrase is : Pikachu Bot is best.
 |!pmd            :|: Sends the Pokemon's icon from Pokemon Mystery Dungeon: Explorers Of Sky.|
 |!pokefuse       :|: Get a Pokémon fusion.|
 |!pokemon        :|: Sends the Pokemon's gif from Gen6.|
-|!shinyhuntr     :|: Shiny hunting.|
-|!randomfusion   :|: Get a random Pokémon fusion.|
+|!shinyhuntr     :|: Shiny hunting.|
+|!randompokemon.  :|: Get random pokemon related pics|
+|!randomfusion   :|: Get a random Pokémon fusion.|
 |!shinygif       :|: Sends a Pokemon shiny animated sprite.|
 |!shinyimg       :|: Sends a Pokemon shiny image.|
 |!showdown       :|: get all info of showdown|
