@@ -3,37 +3,8 @@
 ![Pikachu](https://cdn.discordapp.com/attachments/431347219673907202/431616156911140885/download.jpeg)
 
 A multipurpose bot which can make your server preetier than ever and help you manage it at extreme. The bot is built using discord.js library.
-#FAQ
 
-```
-Frequently Asked Questions```
-```Donating:```
-__***Why would I donate?***__
-```Donating supports the developer and the bot. Also, you get a special role with a colour code of your choice on the Pikachu™BOT official server Also 100 pikacoins /1$.```
 
-__***Where can I donate?***__
-```You can donate through Patreon with the link provided by !patreon```
-
-__***How to setup welcome and Goodbyes message***__
-
-```Just create a new channel named `welcome_goodbyes` to get welcome and goodbyes message```
-
-__***How to change logs of pikachu bot it is sending all in default channel***__
-```You can create a channel named * Log and pikachu will auto log all new updates of the server there```
-
-__***I need help regarding Pikachu:tm: Bot commands***__
-
-```Make sure you read github guide first and use `!help  command name ` before asking for help and also make sure pikachu bot has all important permission(admin permission) if you dont know all!!```
-
-__***I want something#0000 bot here can i request it??***__
-```This is Pikachu™ Bot official server not a server for other bot or your own bot if you want more commands in Pikachu™BoT ,suggestion are accepted.```
-
-__***How to remove command cooldown***__
-```Command cooldown is added to stop mass spam spam aka overload of bot. So , you can't turn off it yet```
-
-__***How to get more pikacoins aka money??***__
-
-*••Random pikacoin will spawn in #chat-safe  channel by becoming active in chat and chatting with other users you can get more pikacoins!!*
 **For welcome and goodbye messages create a channel with some words like "welcome", "greet", "leave" etc.
 and make a channel with name ``log`` to log about all  updates about your server.
 ``This bot also send ban message to every user who is banned or unbanned`` by bot or by maually in your server** 
@@ -43,6 +14,39 @@ For detailed informatin about the bot, you can join this server.
 The secret Phrase is : Pikachu Bot is best.
 [<img src="https://canary.discordapp.com/api/guilds/278135637293531136/widget.png?style=banner2">](https://discord.gg/rSsBhn5)
 
+# FAQ
+**Frequently Asked Questions**
+
+**Donating:**
+
+**Why would I donate?**
+Donating supports the developer and the bot. Also, you get a special role with a colour code of your choice on the Pikachu™BOT official server Also 100 pikacoins /1$.
+
+
+**Where can I donate?**
+You can donate through Patreon with the link provided by !patreon
+
+
+**How to setup welcome and Goodbyes message**
+
+Just create a new channel named `welcome_goodbyes` to get welcome and goodbyes message
+
+
+How to change logs of pikachu bot it is sending all in default channel
+You can create a channel named * Log and pikachu will auto log all new updates of the server there
+
+
+**I need help regarding Pikachu™ Bot commands?**
+
+Make sure you read github guide first and use `!help  command name ` before asking for help and also make sure pikachu bot has all important permission(admin permission) if you dont know all!!
+
+**How to remove command cooldown?**
+Command cooldown is added to stop mass spam spam aka overload of bot. So , you can't turn off it yet
+
+
+**How to get more pikacoins aka money??**
+
+••Random pikacoin will spawn in #chat-safe channel of official server, by becoming active in chat and chatting with other users you can get more pikacoins!!
 
 # Commands
 
